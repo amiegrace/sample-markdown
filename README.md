@@ -1,4 +1,3 @@
-# sample-markdown
 
 # Sample markdown
 
